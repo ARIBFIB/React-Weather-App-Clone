@@ -1,6 +1,7 @@
 # React-Weather-App-Clone React JS
 This is the weather app created in React where you can find any of the weather condition in your the World - I have created using APIs data is fetching but this project is the clone of given link below
 # Visit my Master Branch to access full source code
+<img width="917" alt="Screenshot 2024-08-16 185441" src="https://github.com/user-attachments/assets/215028ba-18c0-4475-a842-598b5d9c33f4">
 
 # Reference
 # Original Project Link : https://github.com/ayushkul/react-weather-app but i have used by Vite + React
